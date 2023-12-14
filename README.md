@@ -1,0 +1,1 @@
+Couldn't push the generated files because they are too large. It's sufficient to have Java 8 locally and run it, and everything will be generated in the /downloads folder. (Ignore errors during generation; the program will continue working until it processes all links.)
